@@ -1,14 +1,14 @@
 # CRUD
 
 ## Lenguajes / Frameworks Utilizados:
-1- Java 17
-1- Spring Boot 3
-1- MySQL Server
+- Java 17
+- Spring Boot 3
+- MySQL Server
 
 ## Dependencias Utilizadas
-1- spring-boot-starter-data-jpa
-1- spring-boot-starter-thymeleaf
-1- spring-boot-starter-web
-1- spring-boot-devtools
-1- mysql-connector-j
-1- spring-boot-starter-test
+- spring-boot-starter-data-jpa
+- spring-boot-starter-thymeleaf
+- spring-boot-starter-web
+- spring-boot-devtools
+- mysql-connector-j
+- spring-boot-starter-test
