@@ -12,3 +12,4 @@
 - spring-boot-devtools
 - mysql-connector-j
 - spring-boot-starter-test
+- org.projectlombok
